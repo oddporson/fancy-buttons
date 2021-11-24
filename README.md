@@ -21,4 +21,4 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
-!["Screenshot of Fancy Buttons Main Page"]("https://github.com/oddporson/fancy-buttons")
+!["Screenshot of Fancy Buttons Main Page"](https://github.com/oddporson/fancy-buttons)
