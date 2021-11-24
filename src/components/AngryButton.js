@@ -5,6 +5,8 @@ import { useState } from "react";
 
 function AngryButton() {
   const [anger, setAnger] = useState(0);
+  
+  // onClick event 
   const handleClick = () => { 
     if (anger < 1) {
       setAnger(anger + 0.1)
