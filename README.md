@@ -21,4 +21,14 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
+#### Light Mode
+
 !["Screenshot of Fancy Buttons Main Page"](https://github.com/oddporson/fancy-buttons/blob/main/public/docs/fancy-buttons.png)
+
+#### Dark Mode
+
+!["Screenshots of Fancy Buttons Dark Mode"](https://github.com/oddporson/fancy-buttons/blob/main/public/docs/fancy-buttons-dark-mode.png)
+
+#### Action modes
+
+!["Screenshots of Fancy Buttons Actions"](https://github.com/oddporson/fancy-buttons/blob/main/public/docs/fancy-buttons-actions.png)
