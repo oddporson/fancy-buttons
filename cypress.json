@@ -1,0 +1,9 @@
+{
+  "baseURL": "http:/localhost:3000", 
+  "ignoreTestFiles": [
+    "**/1-getting-started/*.js",
+    "**/2-advanced-examples/*.js"
+  ],
+  "viewpointWidth": 1920,
+  "viewpointHeight": 1080
+}
