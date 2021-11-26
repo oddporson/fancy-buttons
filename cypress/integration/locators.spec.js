@@ -15,7 +15,6 @@ describe("Locators specific elements", () => {
   })
   it("should locate elements with GET command for LightSwitch button", ()=> {
     cy.get("button");
-     // get element by className Angry Button
     cy.get(".LightSwitchButton").click();
   })
 
